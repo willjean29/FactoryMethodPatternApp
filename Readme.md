@@ -1,5 +1,4 @@
-# A simple Staff list
-![](docs/factory.webm)
+# A simple app Factory Method Pattern
 #### Requirements
 - NodeJS
 - MySQL
