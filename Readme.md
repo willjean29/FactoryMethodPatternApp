@@ -1,21 +1,19 @@
-# A simple app Factory Method Pattern
+# PDSLab05-Factory Method Pattern
 ![](docs/factory.gif)
-#### Requirements
+#### technologies
 - NodeJS
 - MySQL
-- Default MySQL database 'tienda'
-- PostgrelSQL
+- PostgreSQL
+- Typescript
 
-Execute the next command in the terminal line of the root of project 
-for install the dependencies.
+Command for install the dependencies.
 ```
     npm install
 ```
-Execute the next command in the terminal line of the root of project 
-for execute in localhost.
+Command for execute in localhost.
 ```
     npx nodemon
 ```
 
-Modify the file keys.js with your credentials.
-Modify the file psg.js with your credentials.
+keys.js credentials MYSQL.
+psg.js credentials PostgreSQL.
