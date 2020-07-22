@@ -1,4 +1,5 @@
 # A simple app Factory Method Pattern
+![](docs/factory.gif)
 #### Requirements
 - NodeJS
 - MySQL
